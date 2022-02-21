@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="cliend_id">cliet_id</string>
+</resources>
